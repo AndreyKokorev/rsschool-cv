@@ -1,1 +1,1 @@
-Link to mycv.
+Link to my cv.
