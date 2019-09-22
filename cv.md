@@ -18,7 +18,6 @@ function handleClick(press){
 		if (hit && model.shipsSunk === model.numShips) {
 			view.displayMessage('You sank all my battleships, in ' + controller.guesses + ' guesses');
 		}
-
 	})
 }
 ```
